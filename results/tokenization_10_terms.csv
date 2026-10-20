@@ -1,0 +1,201 @@
+﻿model,term,n_words,n_tokens,tokens,is_word_level
+MarianMT,access control,2,2,▁access ▁control,True
+MarianMT,attack,1,1,▁attack,True
+MarianMT,audit,1,1,▁audit,True
+MarianMT,audit scope,2,2,▁audit ▁scope,True
+MarianMT,authentication,1,1,▁authentication,True
+MarianMT,authenticity,1,1,▁authenticity,True
+MarianMT,availability,1,1,▁availability,True
+MarianMT,base measure,2,2,▁base ▁measure,True
+MarianMT,competence,1,1,▁competence,True
+MarianMT,confidentiality,1,1,▁confidentiality,True
+MarianMT,conformity,1,1,▁conformity,True
+MarianMT,consequence,1,1,▁consequence,True
+MarianMT,continual improvement,2,2,▁continual ▁improvement,True
+MarianMT,control,1,1,▁control,True
+MarianMT,control objective,2,2,▁control ▁objective,True
+MarianMT,correction,1,1,▁correction,True
+MarianMT,corrective action,2,2,▁corrective ▁action,True
+MarianMT,derived measure,2,2,▁derived ▁measure,True
+MarianMT,documented information,2,2,▁documented ▁information,True
+MarianMT,effectiveness,1,1,▁effectiveness,True
+MarianMT,event,1,1,▁event,True
+MarianMT,external context,2,2,▁external ▁context,True
+MarianMT,governance of information security,4,4,▁governance ▁of ▁information ▁security,True
+MarianMT,governing body,2,2,▁governing ▁body,True
+MarianMT,indicator,1,1,▁indicator,True
+MarianMT,information need,2,2,▁information ▁need,True
+MarianMT,information processing facilities,3,3,▁information ▁processing ▁facilities,True
+MarianMT,information security,2,2,▁information ▁security,True
+MarianMT,information security continuity,3,3,▁information ▁security ▁continuity,True
+MarianMT,information security event,3,3,▁information ▁security ▁event,True
+MarianMT,information security incident,3,3,▁information ▁security ▁incident,True
+MarianMT,information security incident management,4,4,▁information ▁security ▁incident ▁management,True
+MarianMT,information security management system professional,5,5,▁information ▁security ▁management ▁system ▁professional,True
+MarianMT,information sharing community,3,3,▁information ▁sharing ▁community,True
+MarianMT,information system,2,2,▁information ▁system,True
+MarianMT,integrity,1,1,▁integrity,True
+MarianMT,interested party,2,2,▁interested ▁party,True
+MarianMT,internal context,2,2,▁internal ▁context,True
+MarianMT,level of risk,3,3,▁level ▁of ▁risk,True
+MarianMT,likelihood,1,1,▁likelihood,True
+MarianMT,management system,2,2,▁management ▁system,True
+MarianMT,measure,1,1,▁measure,True
+MarianMT,measurement,1,1,▁measurement,True
+MarianMT,measurement function,2,2,▁measurement ▁function,True
+MarianMT,measurement method,2,2,▁measurement ▁method,True
+MarianMT,monitoring,1,1,▁monitoring,True
+MarianMT,nonconformity,1,2,▁non conformity,False
+MarianMT,non-repudiation,1,5,▁non - rep udi ation,False
+MarianMT,objective,1,1,▁objective,True
+MarianMT,organization,1,1,▁organization,True
+MarianMT,outsource,1,2,▁out source,False
+MarianMT,performance,1,1,▁performance,True
+MarianMT,policy,1,1,▁policy,True
+MarianMT,process,1,1,▁process,True
+MarianMT,reliability,1,1,▁reliability,True
+MarianMT,requirement,1,1,▁requirement,True
+MarianMT,residual risk,2,2,▁residual ▁risk,True
+MarianMT,review,1,1,▁review,True
+MarianMT,review object,2,2,▁review ▁object,True
+MarianMT,review objective,2,2,▁review ▁objective,True
+MarianMT,risk,1,1,▁risk,True
+MarianMT,risk acceptance,2,2,▁risk ▁acceptance,True
+MarianMT,risk analysis,2,2,▁risk ▁analysis,True
+MarianMT,risk assessment,2,2,▁risk ▁assessment,True
+MarianMT,risk communication and consultation,4,4,▁risk ▁communication ▁and ▁consultation,True
+MarianMT,risk criteria,2,2,▁risk ▁criteria,True
+MarianMT,risk evaluation,2,2,▁risk ▁evaluation,True
+MarianMT,risk identification,2,2,▁risk ▁identification,True
+MarianMT,risk management,2,2,▁risk ▁management,True
+MarianMT,risk management process,3,3,▁risk ▁management ▁process,True
+MarianMT,risk owner,2,2,▁risk ▁owner,True
+MarianMT,risk treatment,2,2,▁risk ▁treatment,True
+MarianMT,security implementation standard,3,3,▁security ▁implementation ▁standard,True
+MarianMT,threat,1,1,▁threat,True
+MarianMT,top management,2,2,▁top ▁management,True
+MarianMT,trusted information communication entity,4,4,▁trusted ▁information ▁communication ▁entity,True
+MarianMT,vulnerability,1,1,▁vulnerability,True
+MarianMT,sensitivity,1,1,▁sensitivity,True
+MarianMT,abbreviated address calling,3,7,▁a b bre vi ated ▁address ▁calling,False
+MarianMT,character,1,1,▁character,True
+MarianMT,data,1,1,▁data,True
+MarianMT,edit,1,1,▁edit,True
+MarianMT,facsimile,1,1,▁facsimile,True
+MarianMT,gateway,1,1,▁gateway,True
+MarianMT,hash function,2,3,▁has h ▁function,False
+MarianMT,icon,1,1,▁icon,True
+MarianMT,job,1,1,▁job,True
+MarianMT,kernel,1,1,▁kernel,True
+MarianMT,label,1,1,▁label,True
+MarianMT,machine learning,2,2,▁machine ▁learning,True
+MarianMT,node,1,2,▁no de,False
+MarianMT,object code,2,2,▁object ▁code,True
+MarianMT,packet,1,1,▁packet,True
+MarianMT,queue,1,1,▁queue,True
+MarianMT,router,1,2,▁route r,False
+MarianMT,scanner,1,1,▁scanner,True
+MarianMT,table,1,1,▁table,True
+MarianMT,upload,1,2,▁up load,False
+MarianMT,virtual machine,2,2,▁virtual ▁machine,True
+MarianMT,workstation,1,2,▁work station,False
+NLLB,access control,2,2,▁access ▁control,True
+NLLB,attack,1,1,▁attack,True
+NLLB,audit,1,1,▁audit,True
+NLLB,audit scope,2,3,▁audit ▁sc ope,False
+NLLB,authentication,1,2,▁authenti cation,False
+NLLB,authenticity,1,2,▁authenti city,False
+NLLB,availability,1,3,▁ava ila bility,False
+NLLB,base measure,2,2,▁base ▁measure,True
+NLLB,competence,1,2,▁compet ence,False
+NLLB,confidentiality,1,4,▁conf identi ali ty,False
+NLLB,conformity,1,2,▁conformit y,False
+NLLB,consequence,1,2,▁consequ ence,False
+NLLB,continual improvement,2,4,▁continu al ▁improv ement,False
+NLLB,control,1,1,▁control,True
+NLLB,control objective,2,2,▁control ▁objective,True
+NLLB,correction,1,2,▁corre ction,False
+NLLB,corrective action,2,3,▁corre ctive ▁action,False
+NLLB,derived measure,2,3,▁deri ved ▁measure,False
+NLLB,documented information,2,3,▁document ed ▁information,False
+NLLB,effectiveness,1,3,▁effe cti veness,False
+NLLB,event,1,1,▁event,True
+NLLB,external context,2,2,▁external ▁context,True
+NLLB,governance of information security,4,5,▁govern ance ▁of ▁information ▁security,False
+NLLB,governing body,2,3,▁gover ning ▁body,False
+NLLB,indicator,1,2,▁indicat or,False
+NLLB,information need,2,2,▁information ▁need,True
+NLLB,information processing facilities,3,3,▁information ▁processing ▁facilities,True
+NLLB,information security,2,2,▁information ▁security,True
+NLLB,information security continuity,3,4,▁information ▁security ▁continu ity,False
+NLLB,information security event,3,3,▁information ▁security ▁event,True
+NLLB,information security incident,3,3,▁information ▁security ▁incident,True
+NLLB,information security incident management,4,4,▁information ▁security ▁incident ▁management,True
+NLLB,information security management system professional,5,5,▁information ▁security ▁management ▁system ▁professional,True
+NLLB,information sharing community,3,3,▁information ▁sharing ▁community,True
+NLLB,information system,2,2,▁information ▁system,True
+NLLB,integrity,1,2,▁integrit y,False
+NLLB,interested party,2,2,▁interested ▁party,True
+NLLB,internal context,2,2,▁internal ▁context,True
+NLLB,level of risk,3,3,▁level ▁of ▁risk,True
+NLLB,likelihood,1,3,▁like li hood,False
+NLLB,management system,2,2,▁management ▁system,True
+NLLB,measure,1,1,▁measure,True
+NLLB,measurement,1,3,▁meas ur ement,False
+NLLB,measurement function,2,4,▁meas ur ement ▁function,False
+NLLB,measurement method,2,4,▁meas ur ement ▁method,False
+NLLB,monitoring,1,1,▁monitoring,True
+NLLB,nonconformity,1,4,▁non con formit y,False
+NLLB,non-repudiation,1,6,▁non - re pu di ation,False
+NLLB,objective,1,1,▁objective,True
+NLLB,organization,1,1,▁organization,True
+NLLB,outsource,1,3,▁out so urce,False
+NLLB,performance,1,1,▁performance,True
+NLLB,policy,1,1,▁policy,True
+NLLB,process,1,1,▁process,True
+NLLB,reliability,1,3,▁re lia bility,False
+NLLB,requirement,1,2,▁requir ement,False
+NLLB,residual risk,2,3,▁residu al ▁risk,False
+NLLB,review,1,1,▁review,True
+NLLB,review object,2,2,▁review ▁object,True
+NLLB,review objective,2,2,▁review ▁objective,True
+NLLB,risk,1,1,▁risk,True
+NLLB,risk acceptance,2,3,▁risk ▁accept ance,False
+NLLB,risk analysis,2,2,▁risk ▁analysis,True
+NLLB,risk assessment,2,2,▁risk ▁assessment,True
+NLLB,risk communication and consultation,4,5,▁risk ▁communication ▁and ▁consult ation,False
+NLLB,risk criteria,2,2,▁risk ▁criteria,True
+NLLB,risk evaluation,2,3,▁risk ▁evalu ation,False
+NLLB,risk identification,2,3,▁risk ▁identi fication,False
+NLLB,risk management,2,2,▁risk ▁management,True
+NLLB,risk management process,3,3,▁risk ▁management ▁process,True
+NLLB,risk owner,2,2,▁risk ▁owner,True
+NLLB,risk treatment,2,2,▁risk ▁treatment,True
+NLLB,security implementation standard,3,3,▁security ▁implementation ▁standard,True
+NLLB,threat,1,1,▁threat,True
+NLLB,top management,2,2,▁top ▁management,True
+NLLB,trusted information communication entity,4,5,▁trust ed ▁information ▁communication ▁entity,False
+NLLB,vulnerability,1,2,▁vulnera bility,False
+NLLB,sensitivity,1,3,▁sens itiv ity,False
+NLLB,abbreviated address calling,3,6,▁ab bre vi ated ▁address ▁calling,False
+NLLB,character,1,1,▁character,True
+NLLB,data,1,1,▁data,True
+NLLB,edit,1,1,▁edit,True
+NLLB,facsimile,1,4,▁fa cs im ile,False
+NLLB,gateway,1,2,▁gate way,False
+NLLB,hash function,2,2,▁hash ▁function,True
+NLLB,icon,1,1,▁icon,True
+NLLB,job,1,1,▁job,True
+NLLB,kernel,1,2,▁kern el,False
+NLLB,label,1,1,▁label,True
+NLLB,machine learning,2,2,▁machine ▁learning,True
+NLLB,node,1,1,▁node,True
+NLLB,object code,2,2,▁object ▁code,True
+NLLB,packet,1,2,▁pa cket,False
+NLLB,queue,1,2,▁que ue,False
+NLLB,router,1,1,▁router,True
+NLLB,scanner,1,2,▁sc anner,False
+NLLB,table,1,1,▁table,True
+NLLB,upload,1,1,▁upload,True
+NLLB,virtual machine,2,2,▁virtual ▁machine,True
+NLLB,workstation,1,2,▁work station,False

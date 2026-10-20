@@ -1,0 +1,1087 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="lab01-generator" creationtoolversion="1.0" segtype="sentence" o-tmf="TMX" adminlang="en" srclang="en" datatype="plaintext" creationdate="20261015T133713Z"/>
+  <body>
+    <tu tuid="1" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>Access control ensures that access to assets is authorized and restricted.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Управление доступом гарантирует, что доступ к активам авторизован и ограничен.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="2" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>An attack is an attempt to destroy, expose, alter, disable or steal an asset.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Атака — это попытка уничтожить, раскрыть, изменить, вывести из строя или украсть актив.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="3" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>The audit is a systematic and documented process for obtaining audit evidence.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Аудит — это систематический и документированный процесс получения свидетельства аудита.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="4" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>The audit scope defines the extent and boundaries of an audit.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Область аудита определяет объем и границы аудита.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="5" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>Authentication provides assurance that a claimed characteristic of an entity is correct.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Аутентификация обеспечивает гарантию того, что заявленная характеристика объекта является подлинной.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="6" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>Authenticity is the property that an entity is what it claims to be.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Подлинность — это свойство, указывающее, что объект представляет собой то, что он заявляет о себе.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="7" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>Availability is the property of being accessible and usable on demand by an authorized entity.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Доступность — это свойство быть доступным и готовым к использованию по запросу авторизованного объекта.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="8" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>A base measure is defined in terms of an attribute and the method for quantifying it.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Основной показатель определяется через атрибут и метод его количественной оценки.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="9" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>Competence is the ability to apply knowledge and skills to achieve intended results.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Компетентность — это способность применять знания и навыки для достижения желаемых результатов.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="10" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>Confidentiality means that information is not disclosed to unauthorized individuals.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Конфиденциальность означает, что информация не раскрывается неавторизованным лицам.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="11" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>Conformity means fulfilment of a requirement.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Соответствие означает выполнение требования.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="12" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>A consequence is the outcome of an event affecting objectives.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Последствие — это результат события, оказывающий влияние на цели.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="13" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>Continual improvement is a recurring activity to enhance performance.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Постоянное улучшение — это повторяющаяся деятельность по улучшению показателей деятельности.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="14" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>A control is a measure that modifies risk.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Средство управления — это мера, которая изменяет риск.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="15" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>A control objective describes what is to be achieved as a result of implementing controls.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Цель управления описывает, что должно быть достигнуто в результате применения средств управления.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="16" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>Correction is an action to eliminate a detected nonconformity.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Коррекция — это действие для устранения обнаруженного несоответствия.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="17" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>Corrective action eliminates the cause of a nonconformity and prevents recurrence.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Корректирующее действие устраняет причину несоответствия и предотвращает его повторение.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="18" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>A derived measure is defined as a function of two or more values of base measures.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Производный показатель определяется как функция двух или более значений основных показателей.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="19" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>Documented information must be controlled and maintained by the organization.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Документированная информация должна управляться и поддерживаться организацией.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="20" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>Effectiveness is the extent to which planned activities are realized and planned results achieved.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Результативность — это степень, с которой запланированные задачи выполнены и запланированные результаты достигнуты.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="21" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>An event is an occurrence or change of a particular set of circumstances.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Событие — это возникновение или изменение определенного набора обстоятельств.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="22" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>The external context is the external environment in which the organization seeks to achieve its objectives.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Внешний контекст — это внешняя среда, в которой организация стремится достичь своих целей.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="23" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>Governance of information security directs and controls information security activities.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Управление информационной безопасностью направляет и контролирует действия в сфере информационной безопасности.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="24" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>The governing body is accountable for the performance and conformity of the organization.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Руководящий орган управления несет ответственность за показатели деятельности и соответствие организации.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="25" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>An indicator is a measure that provides an estimate or evaluation.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Индикатор — это показатель, который представляет собой прогнозную или вычисляемую оценку.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="26" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>Information need is the insight necessary to manage objectives, goals, risks and problems.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Информационная потребность — это осознаваемая необходимость управления задачами, целями, рисками и проблемами.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="27" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>Information processing facilities include any information processing system or service.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Средства обработки информации включают любую систему обработки информации или службу.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="28" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>Information security preserves the confidentiality, integrity and availability of information.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Информационная безопасность обеспечивает сохранение конфиденциальности, целостности и доступности информации.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="29" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>Information security continuity ensures continued information security operations.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Непрерывность информационной безопасности гарантирует постоянное обеспечение информационной безопасности.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="30" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>An information security event indicates a possible breach of information security policy.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Событие информационной безопасности указывает на возможное нарушение политики информационной безопасности.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="31" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>An information security incident is a single or a series of unwanted information security events.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Инцидент информационной безопасности — это одно или последовательность нежелательных событий информационной безопасности.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="32" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>Information security incident management detects, reports and responds to incidents.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Менеджмент инцидентов информационной безопасности обеспечивает обнаружение, информирование и реагирование на инциденты.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="33" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>An information security management system professional establishes and improves ISMS processes.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Профессионал системы менеджмента информационной безопасности разрабатывает и улучшает процессы СМИБ.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="34" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>An information sharing community is a group of organizations that agree to share information.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Сообщество обмена информацией — это группа организаций, которые достигли соглашения о совместном использовании информации.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="35" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>An information system is a set of applications, services and information technology assets.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Информационная система — это совокупность приложений, служб и ИТ-активов.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="36" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>Integrity is the property of accuracy and completeness.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Целостность — это свойство сохранения полноты и точности.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="37" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>An interested party can affect or be affected by a decision or activity.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Заинтересованная сторона может влиять на решения или действия или быть подвержена их влиянию.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="38" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>The internal context is the internal environment in which the organization seeks to achieve its objectives.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Внутренний контекст — это внутренняя среда, в которой организация стремится достичь своих задач.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="39" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>The level of risk is the magnitude of a risk expressed in terms of consequences and likelihood.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Уровень риска — это величина риска, выраженная комбинацией последствий и их вероятности.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="40" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>Likelihood is the chance of something happening.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Вероятность — это возможность того, что что-то произойдет.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="41" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>A management system is a set of interrelated elements to establish policies and objectives.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Система менеджмента — это совокупность взаимосвязанных элементов для разработки политик и задач.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="42" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>A measure is a variable to which a value is assigned as the result of measurement.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Показатель — это переменная, значение которой присваивается в результате измерения.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="43" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>Measurement is a process to determine a value.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Измерение — это процесс определения значения.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="44" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>A measurement function is an algorithm performed to combine base measures.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Функция расчета производного показателя — это алгоритм, выполняемый для объединения основных показателей.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="45" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>A measurement method is a logical sequence of operations used in quantifying an attribute.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Метод измерения — это логическая последовательность действий для количественного определения атрибута.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="46" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>Monitoring is determining the status of a system, a process or an activity.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Мониторинг — это определение состояния системы, процесса или задачи.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="47" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>Nonconformity is non-fulfilment of a requirement.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Несоответствие — это невыполнение требования.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="48" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>Non-repudiation is the ability to prove the occurrence of a claimed event or action.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Неопровержимость авторства — это возможность доказать наступление оспариваемого события или действия.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="49" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>An objective is a result to be achieved.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Задача — это результат, который должен быть достигнут.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="50" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>An organization is a person or group of people with its own functions and responsibilities.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Организация — это лицо или группа лиц, наделенные своими собственными функциями и обязанностями.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="51" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>To outsource means an external organization performs part of an organization's function.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Передавать на аутсорсинг означает, что внешняя организация выполняет часть функций организации.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="52" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>Performance is a measurable result.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Показатель деятельности — это измеримый результат.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="53" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>A policy is the intentions and direction of an organization, formally expressed by top management.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Политика — это намерения и направление развития организации, официально сформулированные высшим руководством.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="54" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>A process is a set of interrelated activities which transforms inputs into outputs.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Процесс — это совокупность взаимосвязанных видов деятельности, которая преобразует входы в выходы.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="55" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>Reliability is the property of consistent intended behaviour and results.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Надежность — это свойство соответствия предполагаемому поведению и результатам.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="56" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>A requirement is a need or expectation that is stated, implied or obligatory.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Требование — это потребность или ожидание, которое установлено, подразумевается или является обязательным.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="57" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>Residual risk is the risk remaining after risk treatment.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Остаточный риск — это риск, оставшийся после обработки риска.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="58" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>A review determines the suitability, adequacy and effectiveness of the subject matter.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Анализ определяет пригодность, адекватность и результативность объекта анализа.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="59" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>A review object is a specific item being reviewed.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Объект анализа — это конкретный объект, подвергаемый анализу.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="60" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>A review objective describes what is to be achieved as a result of a review.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Цель анализа описывает, что должно быть достигнуто в результате анализа.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="61" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>Risk is the effect of uncertainty on objectives.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Риск — это влияние неопределенности на цели.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="62" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>Risk acceptance is an informed decision to take a particular risk.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Принятие риска — это обоснованное решение согласиться с конкретным риском.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="63" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>Risk analysis is a process to comprehend the nature of risk and to determine the level of risk.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Анализ риска — это процесс понимания характера риска и определения уровня риска.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="64" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>Risk assessment is the overall process of risk identification, analysis and evaluation.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Оценка риска — это единый процесс идентификации риска, анализа риска и определения степени риска.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="65" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>Risk communication and consultation involve dialogue with stakeholders regarding risk.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Обмен информацией по рискам и консультации включают диалог с заинтересованными сторонами по вопросам риска.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="66" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>Risk criteria are terms of reference against which the significance of risk is evaluated.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Критерий риска — это эталонные условия, в сравнении с которыми оценивают значимость риска.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="67" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>Risk evaluation compares the results of risk analysis with risk criteria.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Определение степени риска сравнивает результаты анализа риска с критериями риска.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="68" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>Risk identification is the process of finding, recognizing and describing risks.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Идентификация риска — это процесс поиска, распознавания и описания рисков.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="69" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>Risk management is coordinated activities to direct and control an organization with regard to risk.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Менеджмент риска — это скоординированные действия по руководству и управлению организацией в отношении рисков.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="70" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>The risk management process applies policies and procedures to risk activities.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Процесс менеджмента риска применяет политики и процедуры к действиям по управлению риском.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="71" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>A risk owner has the accountability and authority to manage a risk.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Владелец риска обладает ответственностью и полномочиями для менеджмента риска.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="72" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>Risk treatment is a process to modify risk.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Обработка риска — это процесс, нацеленный на изменение риска.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="73" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>A security implementation standard specifies authorized ways for realizing security.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Стандарт обеспечения безопасности устанавливает разрешенные методы обеспечения безопасности.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="74" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>A threat is a potential cause of an unwanted incident.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Угроза — это возможная причина нежелательного инцидента.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="75" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>Top management directs and controls an organization at the highest level.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Высшее руководство направляет и управляет организацией на высшем уровне.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="76" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>A trusted information communication entity supports information exchange within a community.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Доверенный участник информационного сообщества поддерживает информационное взаимодействие в рамках сообщества.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="77" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>A vulnerability is a weakness of an asset or control that can be exploited by threats.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Уязвимость — это слабое место актива или средства управления, через которое может реализоваться угроза.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="78" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>Access is obtaining the use of a resource.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Доступ — это получение возможности использования ресурса.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="79" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>An access right is permission for a subject to access a particular object.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Право доступа — это разрешение субъекту на доступ к определенному объекту.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="80" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>Authorization is the granting of rights, including access based on access rights.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Санкционирование — это предоставление прав, включая предоставление доступа на основе прав доступа.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="81" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>Cryptography embodies principles and methods for the transformation of data.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Криптография воплощает принципы и методы преобразования данных.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="82" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>Decryption is the process of obtaining original data from a ciphertext.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Расшифрование — это процесс получения исходных данных из шифрограммы.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="83" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>Encryption is the cryptographic transformation of data.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Шифрование — это криптографическое преобразование данных.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="84" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>Identity authentication enables a system to recognize entities.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Аутентификация личности позволяет системе распознавать субъекты.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="85" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>Logical access control uses mechanisms related to data to provide access control.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Логическое управление доступом использует механизмы, связанные с данными, для обеспечения управления доступом.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="86" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>Message authentication verifies that a message was sent by the purported originator.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Аутентификация сообщения проверяет, что сообщение было отправлено заявленным отправителем.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="87" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>A message authentication code is a function of data and a secret key.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Код аутентификации сообщений — это функция данных и секретного ключа.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="88" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>Physical access control uses physical mechanisms to provide access control.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Физическое управление доступом использует физические механизмы для обеспечения управления доступом.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="89" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>A private key is intended for decryption for the exclusive use by its owner.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Закрытый ключ предназначен для расшифрования и используется исключительно его владельцем.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="90" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>A public key is intended for use by any entity for encrypted communication.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Открытый ключ предназначен для использования любой стороной для зашифрованной связи.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="91" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>A secret key is intended for use by a limited number of correspondents.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Секретный ключ предназначен для использования ограниченным числом корреспондентов.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="92" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>A security audit is an independent review of data processing system records.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Аудит безопасности — это независимая проверка документации системы обработки данных.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="93" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>A security clearance is permission to access data at or below a particular security level.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Разрешение безопасности — это разрешение на доступ к данным на определенном уровне безопасности или ниже.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="94" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>A security filter enforces a security policy on the data that pass through it.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Фильтр безопасности обеспечивает соблюдение политики безопасности для проходящих через него данных.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="95" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>A security policy is a plan or course of action adopted for providing computer security.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Политика безопасности — это план или способ действий по обеспечению компьютерной безопасности.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="96" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>Sensitive information must be protected because its disclosure will cause perceivable damage.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Конфиденциальная информация должна быть защищена, поскольку ее раскрытие причинит ощутимый ущерб.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="97" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>A subject is an active entity that can access objects.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Субъект доступа — это активный компонент системы, который может обращаться к объектам.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="98" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>System integrity means the system fulfils its operational purpose securely.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Целостность системы означает, что система безопасно выполняет свое операционное назначение.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="99" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>A trusted computer system provides sufficient computer security for concurrent access.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Доверенная компьютерная система обеспечивает достаточную компьютерную безопасность для параллельного доступа.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="100" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>An identity token is a device used for identity authentication.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Идентификационный маркер — это устройство, используемое для аутентификации личности.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="101" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>Abbreviated address calling enables a user to employ an address having fewer characters than the full address.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Вызов по сокращенному адресу позволяет пользователю использовать адрес с меньшим числом знаков, чем полный адрес.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="102" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>A character is a member of a set of elements used for the representation, organization or control of data.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Знак — это элемент множества, используемого для представления, организации или управления данными.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="103" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>Data is a reinterpretable representation of information in a formalized manner.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Данные — это интерпретируемое представление информации в формализованном виде.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="104" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>Edit means to prepare data for a later operation.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Редактирование означает подготовку данных для последующей операции.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="105" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>Facsimile is the transmission of images of pages over a telecommunication system.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Факсимиле — это передача изображений страниц по телекоммуникационной системе.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="106" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>A gateway is a functional unit that connects two computer networks having different architectures.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Шлюз — это функциональный блок, соединяющий две компьютерные сети с различными архитектурами.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="107" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>A hash function is used to determine the position of a given item in a set of items.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Хэш-функция используется для определения позиции заданного элемента в множестве элементов.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="108" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>An icon is a graphic symbol displayed on a screen that a user can point to with a device.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Пиктограмма — это графический символ на экране, на который пользователь может указать устройством.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="109" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>A job is a unit of work defined by a user that is to be accomplished by a computer.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Задание — это единица работы, определяемая пользователем и выполняемая компьютером.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="110" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>A kernel is that part of a control program that is resident in main storage.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Ядро — это часть управляющей программы, постоянно находящаяся в основной памяти.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="111" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>A label is an identifier for a location in a program.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Метка — это идентификатор позиции в программе.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="112" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>Machine learning is a process by which a functional unit improves its performance.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Машинное обучение — это процесс, посредством которого функциональный блок улучшает свою работу.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="113" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>A node is an entity in a network that is connected to one or more other entities.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Узел — это объект в сети, соединенный с одним или несколькими другими объектами.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="114" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>Object code is the final version of code prior to execution.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Объектный код — это окончательная версия кода перед выполнением.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="115" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>A packet is a sequence of bits arranged in a specific format and transmitted as a whole.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Пакет — это последовательность битов в определенном формате, передаваемая как единое целое.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="116" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>A queue is a list constructed so that the next item retrieved is the one inserted earliest.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Очередь — это список, организованный так, что первым извлекается элемент, вставленный раньше всех.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="117" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>A router is a functional unit that establishes a path through one or more computer networks.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Маршрутизатор — это функциональный блок, устанавливающий путь через одну или несколько сетей.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="118" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>A scanner is a device that examines a pattern and generates signals corresponding to it.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Сканирующее устройство — это устройство, которое исследует образец и генерирует соответствующие сигналы.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="119" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>A table is an arrangement of data in which each item may be identified by means of keys.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Таблица — это упорядочение данных, в котором каждый элемент может быть идентифицирован с помощью ключей.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="120" creationdate="20261015T133713Z">
+      <prop type="domain">Cybersecurity / Information security</prop>
+      <tuv xml:lang="en">
+        <seg>A virtual machine is a virtual data processing system that appears to be at the exclusive disposal of a particular user.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Виртуальная машина — это виртуальная система обработки данных, которая представляется находящейся в исключительном распоряжении конкретного пользователя.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

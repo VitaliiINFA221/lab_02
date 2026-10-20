@@ -1,0 +1,121 @@
+segment_id,source
+s001,Access control ensures that access to assets is authorized and restricted.
+s002,"An attack is an attempt to destroy, expose, alter, disable or steal an asset."
+s003,The audit is a systematic and documented process for obtaining audit evidence.
+s004,The audit scope defines the extent and boundaries of an audit.
+s005,Authentication provides assurance that a claimed characteristic of an entity is correct.
+s006,Authenticity is the property that an entity is what it claims to be.
+s007,Availability is the property of being accessible and usable on demand by an authorized entity.
+s008,A base measure is defined in terms of an attribute and the method for quantifying it.
+s009,Competence is the ability to apply knowledge and skills to achieve intended results.
+s010,Confidentiality means that information is not disclosed to unauthorized individuals.
+s011,Conformity means fulfilment of a requirement.
+s012,A consequence is the outcome of an event affecting objectives.
+s013,Continual improvement is a recurring activity to enhance performance.
+s014,A control is a measure that modifies risk.
+s015,A control objective describes what is to be achieved as a result of implementing controls.
+s016,Correction is an action to eliminate a detected nonconformity.
+s017,Corrective action eliminates the cause of a nonconformity and prevents recurrence.
+s018,A derived measure is defined as a function of two or more values of base measures.
+s019,Documented information must be controlled and maintained by the organization.
+s020,Effectiveness is the extent to which planned activities are realized and planned results achieved.
+s021,An event is an occurrence or change of a particular set of circumstances.
+s022,The external context is the external environment in which the organization seeks to achieve its objectives.
+s023,Governance of information security directs and controls information security activities.
+s024,The governing body is accountable for the performance and conformity of the organization.
+s025,An indicator is a measure that provides an estimate or evaluation.
+s026,"Information need is the insight necessary to manage objectives, goals, risks and problems."
+s027,Information processing facilities include any information processing system or service.
+s028,"Information security preserves the confidentiality, integrity and availability of information."
+s029,Information security continuity ensures continued information security operations.
+s030,An information security event indicates a possible breach of information security policy.
+s031,An information security incident is a single or a series of unwanted information security events.
+s032,"Information security incident management detects, reports and responds to incidents."
+s033,An information security management system professional establishes and improves ISMS processes.
+s034,An information sharing community is a group of organizations that agree to share information.
+s035,"An information system is a set of applications, services and information technology assets."
+s036,Integrity is the property of accuracy and completeness.
+s037,An interested party can affect or be affected by a decision or activity.
+s038,The internal context is the internal environment in which the organization seeks to achieve its objectives.
+s039,The level of risk is the magnitude of a risk expressed in terms of consequences and likelihood.
+s040,Likelihood is the chance of something happening.
+s041,A management system is a set of interrelated elements to establish policies and objectives.
+s042,A measure is a variable to which a value is assigned as the result of measurement.
+s043,Measurement is a process to determine a value.
+s044,A measurement function is an algorithm performed to combine base measures.
+s045,A measurement method is a logical sequence of operations used in quantifying an attribute.
+s046,"Monitoring is determining the status of a system, a process or an activity."
+s047,Nonconformity is non-fulfilment of a requirement.
+s048,Non-repudiation is the ability to prove the occurrence of a claimed event or action.
+s049,An objective is a result to be achieved.
+s050,An organization is a person or group of people with its own functions and responsibilities.
+s051,To outsource means an external organization performs part of an organization's function.
+s052,Performance is a measurable result.
+s053,"A policy is the intentions and direction of an organization, formally expressed by top management."
+s054,A process is a set of interrelated activities which transforms inputs into outputs.
+s055,Reliability is the property of consistent intended behaviour and results.
+s056,"A requirement is a need or expectation that is stated, implied or obligatory."
+s057,Residual risk is the risk remaining after risk treatment.
+s058,"A review determines the suitability, adequacy and effectiveness of the subject matter."
+s059,A review object is a specific item being reviewed.
+s060,A review objective describes what is to be achieved as a result of a review.
+s061,Risk is the effect of uncertainty on objectives.
+s062,Risk acceptance is an informed decision to take a particular risk.
+s063,Risk analysis is a process to comprehend the nature of risk and to determine the level of risk.
+s064,"Risk assessment is the overall process of risk identification, analysis and evaluation."
+s065,Risk communication and consultation involve dialogue with stakeholders regarding risk.
+s066,Risk criteria are terms of reference against which the significance of risk is evaluated.
+s067,Risk evaluation compares the results of risk analysis with risk criteria.
+s068,"Risk identification is the process of finding, recognizing and describing risks."
+s069,Risk management is coordinated activities to direct and control an organization with regard to risk.
+s070,The risk management process applies policies and procedures to risk activities.
+s071,A risk owner has the accountability and authority to manage a risk.
+s072,Risk treatment is a process to modify risk.
+s073,A security implementation standard specifies authorized ways for realizing security.
+s074,A threat is a potential cause of an unwanted incident.
+s075,Top management directs and controls an organization at the highest level.
+s076,A trusted information communication entity supports information exchange within a community.
+s077,A vulnerability is a weakness of an asset or control that can be exploited by threats.
+s078,Access is obtaining the use of a resource.
+s079,An access right is permission for a subject to access a particular object.
+s080,"Authorization is the granting of rights, including access based on access rights."
+s081,Cryptography embodies principles and methods for the transformation of data.
+s082,Decryption is the process of obtaining original data from a ciphertext.
+s083,Encryption is the cryptographic transformation of data.
+s084,Identity authentication enables a system to recognize entities.
+s085,Logical access control uses mechanisms related to data to provide access control.
+s086,Message authentication verifies that a message was sent by the purported originator.
+s087,A message authentication code is a function of data and a secret key.
+s088,Physical access control uses physical mechanisms to provide access control.
+s089,A private key is intended for decryption for the exclusive use by its owner.
+s090,A public key is intended for use by any entity for encrypted communication.
+s091,A secret key is intended for use by a limited number of correspondents.
+s092,A security audit is an independent review of data processing system records.
+s093,A security clearance is permission to access data at or below a particular security level.
+s094,A security filter enforces a security policy on the data that pass through it.
+s095,A security policy is a plan or course of action adopted for providing computer security.
+s096,Sensitive information must be protected because its disclosure will cause perceivable damage.
+s097,A subject is an active entity that can access objects.
+s098,System integrity means the system fulfils its operational purpose securely.
+s099,A trusted computer system provides sufficient computer security for concurrent access.
+s100,An identity token is a device used for identity authentication.
+s101,Abbreviated address calling enables a user to employ an address having fewer characters than the full address.
+s102,"A character is a member of a set of elements used for the representation, organization or control of data."
+s103,Data is a reinterpretable representation of information in a formalized manner.
+s104,Edit means to prepare data for a later operation.
+s105,Facsimile is the transmission of images of pages over a telecommunication system.
+s106,A gateway is a functional unit that connects two computer networks having different architectures.
+s107,A hash function is used to determine the position of a given item in a set of items.
+s108,An icon is a graphic symbol displayed on a screen that a user can point to with a device.
+s109,A job is a unit of work defined by a user that is to be accomplished by a computer.
+s110,A kernel is that part of a control program that is resident in main storage.
+s111,A label is an identifier for a location in a program.
+s112,Machine learning is a process by which a functional unit improves its performance.
+s113,A node is an entity in a network that is connected to one or more other entities.
+s114,Object code is the final version of code prior to execution.
+s115,A packet is a sequence of bits arranged in a specific format and transmitted as a whole.
+s116,A queue is a list constructed so that the next item retrieved is the one inserted earliest.
+s117,A router is a functional unit that establishes a path through one or more computer networks.
+s118,A scanner is a device that examines a pattern and generates signals corresponding to it.
+s119,A table is an arrangement of data in which each item may be identified by means of keys.
+s120,A virtual machine is a virtual data processing system that appears to be at the exclusive disposal of a particular user.

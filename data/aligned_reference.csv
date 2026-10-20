@@ -1,0 +1,121 @@
+segment_id,source,reference
+s001,Access control ensures that access to assets is authorized and restricted.,"Управление доступом гарантирует, что доступ к активам авторизован и ограничен."
+s002,"An attack is an attempt to destroy, expose, alter, disable or steal an asset.","Атака — это попытка уничтожить, раскрыть, изменить, вывести из строя или украсть актив."
+s003,The audit is a systematic and documented process for obtaining audit evidence.,Аудит — это систематический и документированный процесс получения свидетельства аудита.
+s004,The audit scope defines the extent and boundaries of an audit.,Область аудита определяет объем и границы аудита.
+s005,Authentication provides assurance that a claimed characteristic of an entity is correct.,"Аутентификация обеспечивает гарантию того, что заявленная характеристика объекта является подлинной."
+s006,Authenticity is the property that an entity is what it claims to be.,"Подлинность — это свойство, указывающее, что объект представляет собой то, что он заявляет о себе."
+s007,Availability is the property of being accessible and usable on demand by an authorized entity.,Доступность — это свойство быть доступным и готовым к использованию по запросу авторизованного объекта.
+s008,A base measure is defined in terms of an attribute and the method for quantifying it.,Основной показатель определяется через атрибут и метод его количественной оценки.
+s009,Competence is the ability to apply knowledge and skills to achieve intended results.,Компетентность — это способность применять знания и навыки для достижения желаемых результатов.
+s010,Confidentiality means that information is not disclosed to unauthorized individuals.,"Конфиденциальность означает, что информация не раскрывается неавторизованным лицам."
+s011,Conformity means fulfilment of a requirement.,Соответствие означает выполнение требования.
+s012,A consequence is the outcome of an event affecting objectives.,"Последствие — это результат события, оказывающий влияние на цели."
+s013,Continual improvement is a recurring activity to enhance performance.,Постоянное улучшение — это повторяющаяся деятельность по улучшению показателей деятельности.
+s014,A control is a measure that modifies risk.,"Средство управления — это мера, которая изменяет риск."
+s015,A control objective describes what is to be achieved as a result of implementing controls.,"Цель управления описывает, что должно быть достигнуто в результате применения средств управления."
+s016,Correction is an action to eliminate a detected nonconformity.,Коррекция — это действие для устранения обнаруженного несоответствия.
+s017,Corrective action eliminates the cause of a nonconformity and prevents recurrence.,Корректирующее действие устраняет причину несоответствия и предотвращает его повторение.
+s018,A derived measure is defined as a function of two or more values of base measures.,Производный показатель определяется как функция двух или более значений основных показателей.
+s019,Documented information must be controlled and maintained by the organization.,Документированная информация должна управляться и поддерживаться организацией.
+s020,Effectiveness is the extent to which planned activities are realized and planned results achieved.,"Результативность — это степень, с которой запланированные задачи выполнены и запланированные результаты достигнуты."
+s021,An event is an occurrence or change of a particular set of circumstances.,Событие — это возникновение или изменение определенного набора обстоятельств.
+s022,The external context is the external environment in which the organization seeks to achieve its objectives.,"Внешний контекст — это внешняя среда, в которой организация стремится достичь своих целей."
+s023,Governance of information security directs and controls information security activities.,Управление информационной безопасностью направляет и контролирует действия в сфере информационной безопасности.
+s024,The governing body is accountable for the performance and conformity of the organization.,Руководящий орган управления несет ответственность за показатели деятельности и соответствие организации.
+s025,An indicator is a measure that provides an estimate or evaluation.,"Индикатор — это показатель, который представляет собой прогнозную или вычисляемую оценку."
+s026,"Information need is the insight necessary to manage objectives, goals, risks and problems.","Информационная потребность — это осознаваемая необходимость управления задачами, целями, рисками и проблемами."
+s027,Information processing facilities include any information processing system or service.,Средства обработки информации включают любую систему обработки информации или службу.
+s028,"Information security preserves the confidentiality, integrity and availability of information.","Информационная безопасность обеспечивает сохранение конфиденциальности, целостности и доступности информации."
+s029,Information security continuity ensures continued information security operations.,Непрерывность информационной безопасности гарантирует постоянное обеспечение информационной безопасности.
+s030,An information security event indicates a possible breach of information security policy.,Событие информационной безопасности указывает на возможное нарушение политики информационной безопасности.
+s031,An information security incident is a single or a series of unwanted information security events.,Инцидент информационной безопасности — это одно или последовательность нежелательных событий информационной безопасности.
+s032,"Information security incident management detects, reports and responds to incidents.","Менеджмент инцидентов информационной безопасности обеспечивает обнаружение, информирование и реагирование на инциденты."
+s033,An information security management system professional establishes and improves ISMS processes.,Профессионал системы менеджмента информационной безопасности разрабатывает и улучшает процессы СМИБ.
+s034,An information sharing community is a group of organizations that agree to share information.,"Сообщество обмена информацией — это группа организаций, которые достигли соглашения о совместном использовании информации."
+s035,"An information system is a set of applications, services and information technology assets.","Информационная система — это совокупность приложений, служб и ИТ-активов."
+s036,Integrity is the property of accuracy and completeness.,Целостность — это свойство сохранения полноты и точности.
+s037,An interested party can affect or be affected by a decision or activity.,Заинтересованная сторона может влиять на решения или действия или быть подвержена их влиянию.
+s038,The internal context is the internal environment in which the organization seeks to achieve its objectives.,"Внутренний контекст — это внутренняя среда, в которой организация стремится достичь своих задач."
+s039,The level of risk is the magnitude of a risk expressed in terms of consequences and likelihood.,"Уровень риска — это величина риска, выраженная комбинацией последствий и их вероятности."
+s040,Likelihood is the chance of something happening.,"Вероятность — это возможность того, что что-то произойдет."
+s041,A management system is a set of interrelated elements to establish policies and objectives.,Система менеджмента — это совокупность взаимосвязанных элементов для разработки политик и задач.
+s042,A measure is a variable to which a value is assigned as the result of measurement.,"Показатель — это переменная, значение которой присваивается в результате измерения."
+s043,Measurement is a process to determine a value.,Измерение — это процесс определения значения.
+s044,A measurement function is an algorithm performed to combine base measures.,"Функция расчета производного показателя — это алгоритм, выполняемый для объединения основных показателей."
+s045,A measurement method is a logical sequence of operations used in quantifying an attribute.,Метод измерения — это логическая последовательность действий для количественного определения атрибута.
+s046,"Monitoring is determining the status of a system, a process or an activity.","Мониторинг — это определение состояния системы, процесса или задачи."
+s047,Nonconformity is non-fulfilment of a requirement.,Несоответствие — это невыполнение требования.
+s048,Non-repudiation is the ability to prove the occurrence of a claimed event or action.,Неопровержимость авторства — это возможность доказать наступление оспариваемого события или действия.
+s049,An objective is a result to be achieved.,"Задача — это результат, который должен быть достигнут."
+s050,An organization is a person or group of people with its own functions and responsibilities.,"Организация — это лицо или группа лиц, наделенные своими собственными функциями и обязанностями."
+s051,To outsource means an external organization performs part of an organization's function.,"Передавать на аутсорсинг означает, что внешняя организация выполняет часть функций организации."
+s052,Performance is a measurable result.,Показатель деятельности — это измеримый результат.
+s053,"A policy is the intentions and direction of an organization, formally expressed by top management.","Политика — это намерения и направление развития организации, официально сформулированные высшим руководством."
+s054,A process is a set of interrelated activities which transforms inputs into outputs.,"Процесс — это совокупность взаимосвязанных видов деятельности, которая преобразует входы в выходы."
+s055,Reliability is the property of consistent intended behaviour and results.,Надежность — это свойство соответствия предполагаемому поведению и результатам.
+s056,"A requirement is a need or expectation that is stated, implied or obligatory.","Требование — это потребность или ожидание, которое установлено, подразумевается или является обязательным."
+s057,Residual risk is the risk remaining after risk treatment.,"Остаточный риск — это риск, оставшийся после обработки риска."
+s058,"A review determines the suitability, adequacy and effectiveness of the subject matter.","Анализ определяет пригодность, адекватность и результативность объекта анализа."
+s059,A review object is a specific item being reviewed.,"Объект анализа — это конкретный объект, подвергаемый анализу."
+s060,A review objective describes what is to be achieved as a result of a review.,"Цель анализа описывает, что должно быть достигнуто в результате анализа."
+s061,Risk is the effect of uncertainty on objectives.,Риск — это влияние неопределенности на цели.
+s062,Risk acceptance is an informed decision to take a particular risk.,Принятие риска — это обоснованное решение согласиться с конкретным риском.
+s063,Risk analysis is a process to comprehend the nature of risk and to determine the level of risk.,Анализ риска — это процесс понимания характера риска и определения уровня риска.
+s064,"Risk assessment is the overall process of risk identification, analysis and evaluation.","Оценка риска — это единый процесс идентификации риска, анализа риска и определения степени риска."
+s065,Risk communication and consultation involve dialogue with stakeholders regarding risk.,Обмен информацией по рискам и консультации включают диалог с заинтересованными сторонами по вопросам риска.
+s066,Risk criteria are terms of reference against which the significance of risk is evaluated.,"Критерий риска — это эталонные условия, в сравнении с которыми оценивают значимость риска."
+s067,Risk evaluation compares the results of risk analysis with risk criteria.,Определение степени риска сравнивает результаты анализа риска с критериями риска.
+s068,"Risk identification is the process of finding, recognizing and describing risks.","Идентификация риска — это процесс поиска, распознавания и описания рисков."
+s069,Risk management is coordinated activities to direct and control an organization with regard to risk.,Менеджмент риска — это скоординированные действия по руководству и управлению организацией в отношении рисков.
+s070,The risk management process applies policies and procedures to risk activities.,Процесс менеджмента риска применяет политики и процедуры к действиям по управлению риском.
+s071,A risk owner has the accountability and authority to manage a risk.,Владелец риска обладает ответственностью и полномочиями для менеджмента риска.
+s072,Risk treatment is a process to modify risk.,"Обработка риска — это процесс, нацеленный на изменение риска."
+s073,A security implementation standard specifies authorized ways for realizing security.,Стандарт обеспечения безопасности устанавливает разрешенные методы обеспечения безопасности.
+s074,A threat is a potential cause of an unwanted incident.,Угроза — это возможная причина нежелательного инцидента.
+s075,Top management directs and controls an organization at the highest level.,Высшее руководство направляет и управляет организацией на высшем уровне.
+s076,A trusted information communication entity supports information exchange within a community.,Доверенный участник информационного сообщества поддерживает информационное взаимодействие в рамках сообщества.
+s077,A vulnerability is a weakness of an asset or control that can be exploited by threats.,"Уязвимость — это слабое место актива или средства управления, через которое может реализоваться угроза."
+s078,Access is obtaining the use of a resource.,Доступ — это получение возможности использования ресурса.
+s079,An access right is permission for a subject to access a particular object.,Право доступа — это разрешение субъекту на доступ к определенному объекту.
+s080,"Authorization is the granting of rights, including access based on access rights.","Санкционирование — это предоставление прав, включая предоставление доступа на основе прав доступа."
+s081,Cryptography embodies principles and methods for the transformation of data.,Криптография воплощает принципы и методы преобразования данных.
+s082,Decryption is the process of obtaining original data from a ciphertext.,Расшифрование — это процесс получения исходных данных из шифрограммы.
+s083,Encryption is the cryptographic transformation of data.,Шифрование — это криптографическое преобразование данных.
+s084,Identity authentication enables a system to recognize entities.,Аутентификация личности позволяет системе распознавать субъекты.
+s085,Logical access control uses mechanisms related to data to provide access control.,"Логическое управление доступом использует механизмы, связанные с данными, для обеспечения управления доступом."
+s086,Message authentication verifies that a message was sent by the purported originator.,"Аутентификация сообщения проверяет, что сообщение было отправлено заявленным отправителем."
+s087,A message authentication code is a function of data and a secret key.,Код аутентификации сообщений — это функция данных и секретного ключа.
+s088,Physical access control uses physical mechanisms to provide access control.,Физическое управление доступом использует физические механизмы для обеспечения управления доступом.
+s089,A private key is intended for decryption for the exclusive use by its owner.,Закрытый ключ предназначен для расшифрования и используется исключительно его владельцем.
+s090,A public key is intended for use by any entity for encrypted communication.,Открытый ключ предназначен для использования любой стороной для зашифрованной связи.
+s091,A secret key is intended for use by a limited number of correspondents.,Секретный ключ предназначен для использования ограниченным числом корреспондентов.
+s092,A security audit is an independent review of data processing system records.,Аудит безопасности — это независимая проверка документации системы обработки данных.
+s093,A security clearance is permission to access data at or below a particular security level.,Разрешение безопасности — это разрешение на доступ к данным на определенном уровне безопасности или ниже.
+s094,A security filter enforces a security policy on the data that pass through it.,Фильтр безопасности обеспечивает соблюдение политики безопасности для проходящих через него данных.
+s095,A security policy is a plan or course of action adopted for providing computer security.,Политика безопасности — это план или способ действий по обеспечению компьютерной безопасности.
+s096,Sensitive information must be protected because its disclosure will cause perceivable damage.,"Конфиденциальная информация должна быть защищена, поскольку ее раскрытие причинит ощутимый ущерб."
+s097,A subject is an active entity that can access objects.,"Субъект доступа — это активный компонент системы, который может обращаться к объектам."
+s098,System integrity means the system fulfils its operational purpose securely.,"Целостность системы означает, что система безопасно выполняет свое операционное назначение."
+s099,A trusted computer system provides sufficient computer security for concurrent access.,Доверенная компьютерная система обеспечивает достаточную компьютерную безопасность для параллельного доступа.
+s100,An identity token is a device used for identity authentication.,"Идентификационный маркер — это устройство, используемое для аутентификации личности."
+s101,Abbreviated address calling enables a user to employ an address having fewer characters than the full address.,"Вызов по сокращенному адресу позволяет пользователю использовать адрес с меньшим числом знаков, чем полный адрес."
+s102,"A character is a member of a set of elements used for the representation, organization or control of data.","Знак — это элемент множества, используемого для представления, организации или управления данными."
+s103,Data is a reinterpretable representation of information in a formalized manner.,Данные — это интерпретируемое представление информации в формализованном виде.
+s104,Edit means to prepare data for a later operation.,Редактирование означает подготовку данных для последующей операции.
+s105,Facsimile is the transmission of images of pages over a telecommunication system.,Факсимиле — это передача изображений страниц по телекоммуникационной системе.
+s106,A gateway is a functional unit that connects two computer networks having different architectures.,"Шлюз — это функциональный блок, соединяющий две компьютерные сети с различными архитектурами."
+s107,A hash function is used to determine the position of a given item in a set of items.,Хэш-функция используется для определения позиции заданного элемента в множестве элементов.
+s108,An icon is a graphic symbol displayed on a screen that a user can point to with a device.,"Пиктограмма — это графический символ на экране, на который пользователь может указать устройством."
+s109,A job is a unit of work defined by a user that is to be accomplished by a computer.,"Задание — это единица работы, определяемая пользователем и выполняемая компьютером."
+s110,A kernel is that part of a control program that is resident in main storage.,"Ядро — это часть управляющей программы, постоянно находящаяся в основной памяти."
+s111,A label is an identifier for a location in a program.,Метка — это идентификатор позиции в программе.
+s112,Machine learning is a process by which a functional unit improves its performance.,"Машинное обучение — это процесс, посредством которого функциональный блок улучшает свою работу."
+s113,A node is an entity in a network that is connected to one or more other entities.,"Узел — это объект в сети, соединенный с одним или несколькими другими объектами."
+s114,Object code is the final version of code prior to execution.,Объектный код — это окончательная версия кода перед выполнением.
+s115,A packet is a sequence of bits arranged in a specific format and transmitted as a whole.,"Пакет — это последовательность битов в определенном формате, передаваемая как единое целое."
+s116,A queue is a list constructed so that the next item retrieved is the one inserted earliest.,"Очередь — это список, организованный так, что первым извлекается элемент, вставленный раньше всех."
+s117,A router is a functional unit that establishes a path through one or more computer networks.,"Маршрутизатор — это функциональный блок, устанавливающий путь через одну или несколько сетей."
+s118,A scanner is a device that examines a pattern and generates signals corresponding to it.,"Сканирующее устройство — это устройство, которое исследует образец и генерирует соответствующие сигналы."
+s119,A table is an arrangement of data in which each item may be identified by means of keys.,"Таблица — это упорядочение данных, в котором каждый элемент может быть идентифицирован с помощью ключей."
+s120,A virtual machine is a virtual data processing system that appears to be at the exclusive disposal of a particular user.,"Виртуальная машина — это виртуальная система обработки данных, которая представляется находящейся в исключительном распоряжении конкретного пользователя."

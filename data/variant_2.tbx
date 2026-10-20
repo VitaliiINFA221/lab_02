@@ -1,0 +1,1821 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE martif SYSTEM "TBXcoreStructV02.dtd">
+<martif type="TBX" xml:lang="en">
+  <martifHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Glossary EN-RU: Кибербезопасность и защита информации</title>
+      </titleStmt>
+      <sourceDesc>
+        <p>Lab 01, variant 2, ISO 27000 + GOST 33707</p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p type="XCSURI">TBXXCSV02.xcs</p>
+    </encodingDesc>
+  </martifHeader>
+  <text>
+    <body>
+      <termEntry id="tid-001">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>access control</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">means to ensure that access to assets is authorized and restricted based on business and security requirements</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>управление доступом</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-002">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>attack</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">attempt to destroy, expose, alter, disable, steal or gain unauthorized access to or make unauthorized use of an asset</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>атака</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-003">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>audit</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">systematic, independent and documented process for obtaining audit evidence and evaluating it objectively to determine the extent to which the audit criteria are fulfilled</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>аудит</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-004">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>audit scope</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">extent and boundaries of an audit</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>область аудита</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-005">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>authentication</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">provision of assurance that a claimed characteristic of an entity is correct</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>аутентификация</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-006">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>authenticity</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">property that an entity is what it claims to be</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>подлинность</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-007">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>availability</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">property of being accessible and usable on demand by an authorized entity</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>доступность</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-008">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>base measure</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">measure defined in terms of an attribute and the method for quantifying it</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>основной показатель</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-009">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>competence</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">ability to apply knowledge and skills to achieve intended results</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>компетентность</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-010">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>confidentiality</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">property that information is not made available or disclosed to unauthorized individuals, entities, or processes</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>конфиденциальность</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-011">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>conformity</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">fulfilment of a requirement</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>соответствие</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-012">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>consequence</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">outcome of an event affecting objectives</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>последствие</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-013">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>continual improvement</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">recurring activity to enhance performance</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>постоянное улучшение</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-014">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>control</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">measure that is modifying risk</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>средство управления</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-015">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>control objective</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">statement describing what is to be achieved as a result of implementing controls</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>цель управления</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-016">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>correction</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">action to eliminate a detected nonconformity</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>коррекция</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-017">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>corrective action</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">action to eliminate the cause of a nonconformity and to prevent recurrence</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>корректирующее действие</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-018">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>derived measure</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">measure that is defined as a function of two or more values of base measures</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>производный показатель</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-019">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>documented information</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">information required to be controlled and maintained by an organization and the medium on which it is contained</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>документированная информация</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-020">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>effectiveness</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">extent to which planned activities are realized and planned results achieved</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>результативность</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-021">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>event</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">occurrence or change of a particular set of circumstances</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>событие</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-022">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>external context</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">external environment in which the organization seeks to achieve its objectives</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>внешний контекст</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-023">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>governance of information security</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">system by which an organization's information security activities are directed and controlled</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>управление информационной безопасностью</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-024">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>governing body</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">person or group of people who are accountable for the performance and conformity of the organization</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>руководящий орган управления</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-025">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>indicator</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">measure that provides an estimate or evaluation</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>индикатор</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-026">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>information need</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">insight necessary to manage objectives, goals, risks and problems</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>информационная потребность</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-027">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>information processing facilities</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">any information processing system, service or infrastructure, or the physical location housing it</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>средства обработки информации</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-028">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>information security</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">preservation of confidentiality, integrity and availability of information</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>информационная безопасность</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-029">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>information security continuity</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">processes and procedures for ensuring continued information security operations</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>непрерывность информационной безопасности</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-030">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>information security event</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">identified occurrence of a system, service or network state indicating a possible breach of information security policy or failure of controls</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>событие информационной безопасности</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-031">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>information security incident</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">single or a series of unwanted or unexpected information security events that have a significant probability of compromising business operations</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>инцидент информационной безопасности</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-032">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>information security incident management</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">set of processes for detecting, reporting, assessing, responding to, dealing with, and learning from information security incidents</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>менеджмент инцидентов информационной безопасности</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-033">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>information security management system professional</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">person who establishes, implements, maintains and continuously improves one or more information security management system processes</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>профессионал системы менеджмента информационной безопасности</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-034">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>information sharing community</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">group of organizations that agree to share information</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>сообщество обмена информацией</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-035">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>information system</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">set of applications, services, information technology assets, or other information-handling components</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>информационная система</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-036">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>integrity</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">property of accuracy and completeness</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>целостность</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-037">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>interested party</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">person or organization that can affect, be affected by, or perceive itself to be affected by a decision or activity</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>заинтересованная сторона</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-038">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>internal context</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">internal environment in which the organization seeks to achieve its objectives</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>внутренний контекст</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-039">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>level of risk</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">magnitude of a risk expressed in terms of the combination of consequences and their likelihood</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>уровень риска</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-040">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>likelihood</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">chance of something happening</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>вероятность</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-041">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>management system</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">set of interrelated or interacting elements of an organization to establish policies and objectives and processes to achieve those objectives</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>система менеджмента</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-042">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>measure</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">variable to which a value is assigned as the result of measurement</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>показатель</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-043">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>measurement</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">process to determine a value</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>измерение</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-044">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>measurement function</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">algorithm or calculation performed to combine two or more base measures</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>функция расчета производного показателя</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-045">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>measurement method</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">logical sequence of operations, described generically, used in quantifying an attribute with respect to a specified scale</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>метод измерения</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-046">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>monitoring</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">determining the status of a system, a process or an activity</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>мониторинг</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-047">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>nonconformity</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">non-fulfilment of a requirement</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>несоответствие</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-048">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>non-repudiation</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">ability to prove the occurrence of a claimed event or action and its originating entities</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>неопровержимость авторства</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-049">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>objective</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">result to be achieved</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>задача</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-050">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>organization</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">person or group of people that has its own functions with responsibilities, authorities and relationships to achieve its objectives</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>организация</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-051">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>outsource</term>
+            <termNote type="partOfSpeech">verb</termNote>
+            <descrip type="definition">make an arrangement where an external organization performs part of an organization's function or process</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>передавать на аутсорсинг</term>
+              <termNote type="partOfSpeech">verb</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-052">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>performance</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">measurable result</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>показатель деятельности</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-053">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>policy</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">intentions and direction of an organization, as formally expressed by its top management</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>политика</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-054">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>process</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">set of interrelated or interacting activities which transforms inputs into outputs</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>процесс</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-055">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>reliability</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">property of consistent intended behaviour and results</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>надежность</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-056">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>requirement</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">need or expectation that is stated, generally implied or obligatory</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>требование</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-057">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>residual risk</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">risk remaining after risk treatment</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>остаточный риск</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-058">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>review</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">activity undertaken to determine the suitability, adequacy and effectiveness of the subject matter to achieve established objectives</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>анализ</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-059">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>review object</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">specific item being reviewed</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>объект анализа</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-060">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>review objective</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">statement describing what is to be achieved as a result of a review</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>цель анализа</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-061">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>risk</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">effect of uncertainty on objectives</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>риск</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-062">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>risk acceptance</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">informed decision to take a particular risk</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>принятие риска</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-063">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>risk analysis</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">process to comprehend the nature of risk and to determine the level of risk</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>анализ риска</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-064">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>risk assessment</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">overall process of risk identification, risk analysis and risk evaluation</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>оценка риска</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-065">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>risk communication and consultation</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">set of continual and iterative processes that an organization conducts to provide, share or obtain information, and to engage in dialogue with stakeholders regarding the management of risk</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>обмен информацией по рискам и консультации</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-066">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>risk criteria</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">terms of reference against which the significance of risk is evaluated</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>критерий риска</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-067">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>risk evaluation</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">process of comparing the results of risk analysis with risk criteria to determine whether the risk and/or its magnitude is acceptable or tolerable</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>определение степени риска</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-068">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>risk identification</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">process of finding, recognizing and describing risks</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>идентификация риска</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-069">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>risk management</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">coordinated activities to direct and control an organization with regard to risk</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>менеджмент риска</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-070">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>risk management process</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">systematic application of management policies, procedures and practices to the activities of communicating, consulting, establishing the context and identifying, analysing, evaluating, treating, monitoring and reviewing risk</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>процесс менеджмента риска</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-071">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>risk owner</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">person or entity with the accountability and authority to manage a risk</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>владелец риска</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-072">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>risk treatment</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">process to modify risk</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>обработка риска</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-073">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>security implementation standard</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">document specifying authorized ways for realizing security</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>стандарт обеспечения безопасности</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-074">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>threat</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">potential cause of an unwanted incident, which can result in harm to a system or organization</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>угроза</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-075">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>top management</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">person or group of people who directs and controls an organization at the highest level</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>высшее руководство</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-076">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>trusted information communication entity</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">autonomous organization supporting information exchange within an information sharing community</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>доверенный участник информационного сообщества</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-077">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>vulnerability</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">weakness of an asset or control that can be exploited by one or more threats</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>уязвимость</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-078">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>sensitivity</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">measure of importance assigned to information by the information owner to denote its need for protection</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>важность</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-079">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>abbreviated address calling</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">calling that enables a user to employ an address having fewer characters than the full address when initiating a call</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>вызов по сокращенному адресу</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-080">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>character</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">member of a set of elements that is used for the representation, organization, or control of data</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>знак</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-081">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>data</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">reinterpretable representation of information in a formalized manner suitable for communication, interpretation, or processing</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>данные</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-082">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>edit</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">prepare data for a later operation</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>редактирование</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-083">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>facsimile</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">transmission over a telecommunication system of images of pages and the creation of copies of those images at the receiving location</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>факсимиле</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-084">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>gateway</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">functional unit that connects two computer networks having different network architectures</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>шлюз</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-085">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>hash function</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">function used to determine the position of a given item in a set of items</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>хэш-функция</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-086">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>icon</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">graphic symbol, displayed on a screen, to which a user can point with a device, such as a mouse, in order to select a particular function or software application</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>пиктограмма</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-087">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>job</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">unit of work that is defined by a user and that is to be accomplished by a computer</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>задание</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-088">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>kernel</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">that part of a control program that is resident in main storage</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>ядро</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-089">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>label</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">identifier for a location in a program</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>метка</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-090">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>machine learning</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">process by which a functional unit improves its performance by acquiring new knowledge or skills, or by reorganizing existing knowledge or skills</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>машинное обучение</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-091">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>node</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">in a network, entity that is connected to one or more other entities</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>узел</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-092">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>object code</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">final version of code prior to execution</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>объектный код</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-093">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>packet</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">sequence of bits arranged in a specific format, containing control data and possibly user data, and that is transmitted and switched as a whole</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>пакет</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-094">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>queue</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">list that is constructed and maintained so that the next item to be retrieved is the one inserted earliest</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>очередь</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-095">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>router</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">functional unit that establishes a path through one or more computer networks</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>маршрутизатор</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-096">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>scanner</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">device that examines a special pattern, one part after another, and generates analog or digital signals corresponding to the pattern</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>сканирующее устройство</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-097">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>table</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">arrangement of data in which each item may be identified by means of arguments or keys</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>таблица</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-098">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>upload</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">transfer programs or data from a connected computer to a computer with greater resources, typically from a personal computer to a mainframe</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>загрузка</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-099">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>virtual machine</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">virtual data processing system that appears to be at the exclusive disposal of a particular user, but whose functions are accomplished by sharing the resources of a real data processing system</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>виртуальная машина</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-100">
+        <descrip type="subjectField">Кибербезопасность и защита информации</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>workstation</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">functional unit that usually has special purpose computing capabilities and includes user-oriented input units and output units</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>рабочая станция</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+    </body>
+  </text>
+</martif>

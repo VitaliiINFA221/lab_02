@@ -1,0 +1,5 @@
+﻿model,mode,batch_size,n_segments,total_s,per_segment_s,device,speedup
+Helsinki-NLP/opus-mt-en-ru,sequential,1,120,21.724,0.181,cuda,1.0
+Helsinki-NLP/opus-mt-en-ru,batched,4,120,7.215,0.06,cuda,3.01
+Helsinki-NLP/opus-mt-en-ru,batched,8,120,3.931,0.033,cuda,5.53
+Helsinki-NLP/opus-mt-en-ru,batched,16,120,2.458,0.02,cuda,8.84

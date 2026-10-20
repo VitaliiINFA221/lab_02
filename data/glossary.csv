@@ -1,0 +1,101 @@
+en,ru
+access control,управление доступом
+attack,атака
+audit,аудит
+audit scope,область аудита
+authentication,аутентификация
+authenticity,подлинность
+availability,доступность
+base measure,основной показатель
+competence,компетентность
+confidentiality,конфиденциальность
+conformity,соответствие
+consequence,последствие
+continual improvement,постоянное улучшение
+control,средство управления
+control objective,цель управления
+correction,коррекция
+corrective action,корректирующее действие
+derived measure,производный показатель
+documented information,документированная информация
+effectiveness,результативность
+event,событие
+external context,внешний контекст
+governance of information security,управление информационной безопасностью
+governing body,руководящий орган управления
+indicator,индикатор
+information need,информационная потребность
+information processing facilities,средства обработки информации
+information security,информационная безопасность
+information security continuity,непрерывность информационной безопасности
+information security event,событие информационной безопасности
+information security incident,инцидент информационной безопасности
+information security incident management,менеджмент инцидентов информационной безопасности
+information security management system professional,профессионал системы менеджмента информационной безопасности
+information sharing community,сообщество обмена информацией
+information system,информационная система
+integrity,целостность
+interested party,заинтересованная сторона
+internal context,внутренний контекст
+level of risk,уровень риска
+likelihood,вероятность
+management system,система менеджмента
+measure,показатель
+measurement,измерение
+measurement function,функция расчета производного показателя
+measurement method,метод измерения
+monitoring,мониторинг
+nonconformity,несоответствие
+non-repudiation,неопровержимость авторства
+objective,задача
+organization,организация
+outsource,передавать на аутсорсинг
+performance,показатель деятельности
+policy,политика
+process,процесс
+reliability,надежность
+requirement,требование
+residual risk,остаточный риск
+review,анализ
+review object,объект анализа
+review objective,цель анализа
+risk,риск
+risk acceptance,принятие риска
+risk analysis,анализ риска
+risk assessment,оценка риска
+risk communication and consultation,обмен информацией по рискам и консультации
+risk criteria,критерий риска
+risk evaluation,определение степени риска
+risk identification,идентификация риска
+risk management,менеджмент риска
+risk management process,процесс менеджмента риска
+risk owner,владелец риска
+risk treatment,обработка риска
+security implementation standard,стандарт обеспечения безопасности
+threat,угроза
+top management,высшее руководство
+trusted information communication entity,доверенный участник информационного сообщества
+vulnerability,уязвимость
+sensitivity,важность
+abbreviated address calling,вызов по сокращенному адресу
+character,знак
+data,данные
+edit,редактирование
+facsimile,факсимиле
+gateway,шлюз
+hash function,хэш-функция
+icon,пиктограмма
+job,задание
+kernel,ядро
+label,метка
+machine learning,машинное обучение
+node,узел
+object code,объектный код
+packet,пакет
+queue,очередь
+router,маршрутизатор
+scanner,сканирующее устройство
+table,таблица
+upload,загрузка
+virtual machine,виртуальная машина
+workstation,рабочая станция
